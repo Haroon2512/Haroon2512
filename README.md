@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hello! I am Haroon<br>🎓 Currently, I am an Informatik student at Heinrich Heine University Düsseldorf (HHU). <br>🌱 Continuously learning and expanding my skills in Java and C#. <br>🚀 Particularly interested in open-source projects, start-ups, innovative technologies.
+
+👋 Hello! I am Haroon<br>
+🎓 Currently, I am an Informatik student at Heinrich Heine University Düsseldorf (HHU).
+🌱 Continuously learning and expanding my skills in Java and C#.
+🚀 Particularly interested in open-source projects, start-ups, innovative technologies.
+>>>>>>> origin/main
 
 
 ## 🌐 Socials:
