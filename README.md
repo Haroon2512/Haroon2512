@@ -1,5 +1,8 @@
 # 💫 About Me:
-My name is Haroon, i am a Informatik Student at HHU Düsseldorf<br>
+👋 Hello! I am Haroon<br>
+🎓 Currently, I am an Informatik student at Heinrich Heine University Düsseldorf (HHU).
+🌱 Continuously learning and expanding my skills in java and C#.
+🚀 Particularly interested in open-source projects, start-ups and innovative technologies.
 
 
 ## 🌐 Socials:
